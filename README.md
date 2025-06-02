@@ -1,1 +1,1 @@
-# DataScience_Projects
+# DataScience_Simple_Projects
